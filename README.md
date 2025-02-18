@@ -5,19 +5,10 @@
 
 
 ## About Me
-- I'm currently a
-- b
-- c
-- d
+- I'm currently a computer science student at CSULB (California State University of Long Beach)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,c++,)](https://skillicons.dev)
-
-## Currently Exploring 
-- Learning Full Stack Web Development
- - 1
- - 2
- - 3
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,c#,mongodb,postgresql)](https://skillicons.dev)
 
 ## Get in Touch
 - Here's my Twitter
