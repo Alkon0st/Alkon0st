@@ -1,7 +1,7 @@
 
 # 👋 Hi I'm Adriane San Gaspar 
 
-![<Alkon0st>'s Stats](https://github-readme-stats.vercel.app/api?username=Alkon0st&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![<Alkon0st>'s Stats](https://github-readme-stats.vercel.app/api?username=Alkon0st&theme=tokyonight&show_icons=true)
 
 
 ## 👁️About Me👁️
