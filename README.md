@@ -1,5 +1,5 @@
 
-# 👋 Hi I'm Adriane San Gaspar 
+# 👋 Hi I'm Adriane
 
 ![<Alkon0st>'s Stats](https://github-readme-stats.vercel.app/api?username=Alkon0st&theme=tokyonight&show_icons=true)
 
